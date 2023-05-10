@@ -9,7 +9,7 @@
 1. Learn to use and write async functions
 1. Increase understanding of internet architecture
 
-## Background
+## Background.
 
 The [CS40 wardialing lab](https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/lab-wardialing) creates a simple script to scan all computers on the North Korean internet for web servers.
 You should complete the lab in order to get background on this assignment.
